@@ -1,4 +1,4 @@
-## Week 1 Quiz
+## Week 2 Quiz
 
 Question 1. What does a neuron compute?
 
@@ -76,8 +76,8 @@ Note: Correct, remember that a np.dot(a, b) has shape (number of rows of a, numb
 "number of columns of a = 150 = number of rows of b"
 
 Question8. Consider the following code snippet:
-# a.shape = (3,4)
-# b.shape = (4,1)
+ a.shape = (3,4)
+ b.shape = (4,1)
 
 for i in range(3):
   for j in range(4):
