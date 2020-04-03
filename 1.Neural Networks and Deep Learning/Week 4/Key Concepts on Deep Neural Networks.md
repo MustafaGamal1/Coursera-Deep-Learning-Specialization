@@ -26,10 +26,10 @@ Question 3. Which of the following statements is true?
 
 Question 4. Vectorization allows you to compute forward propagation in an L-layer neural network without an explicit for-loop (or any other explicit iterative loop) over the layers l=1, 2, …,L. True/False?
 
-    - [ ] True
-    - [x] False
+   - [ ] True
+   - [x] False
    
-    Note: We cannot avoid the for-loop iteration over the computations among layers.
+   Note: We cannot avoid the for-loop iteration over the computations among layers.
     
 Question 5. Assume we store the values for n^[l] in an array called layers, as follows: layer_dims = [n_x, 4,3,2,1]. So layer 1 has four hidden units, layer 2 has 3 hidden units and so on. Which of the following for-loops will allow you to initialize the parameters for the model?
 
@@ -59,19 +59,19 @@ Note: Yes. As seen in lecture, the number of layers is counted as the number of 
 
 Question 7. During forward propagation, in the forward function for a layer l you need to know what is the activation function in a layer (Sigmoid, tanh, ReLU, etc.). During backpropagation, the corresponding backward function also needs to know what is the activation function for layer l, since the gradient depends on it. True/False?
 
-    - [x] True
-    - [ ] False
+   - [x] True
+   - [ ] False
     
-    Note: Yes, as you've seen in the week 3 each activation has a different derivative. Thus, during backpropagation you need to know which activation was used in the forward propagation to be able to compute the correct derivative.
+   Note: Yes, as you've seen in the week 3 each activation has a different derivative. Thus, during backpropagation you need to know which activation was used in the forward propagation to be able to compute the correct derivative.
     
 Question 8. There are certain functions with the following properties:
 
-    (i) To compute the function using a shallow network circuit, you will need a large network (where we measure size by the number of logic gates in the network), but (ii) To compute it using a deep network circuit, you need only an exponentially smaller network. True/False?
+   (i) To compute the function using a shallow network circuit, you will need a large network (where we measure size by the number of logic gates in the network), but (ii) To compute it using a deep network circuit, you need only an exponentially smaller network. True/False?
     
-    - [x] True
-    - [ ] False
+   - [x] True
+   - [ ] False
     
-    Note: See lectures, exactly same idea was explained.
+   Note: See lectures, exactly same idea was explained.
     
 Question 9. Consider the following 2 hidden layer neural network:
 
@@ -84,7 +84,7 @@ Question 9. Consider the following 2 hidden layer neural network:
    - b^[3] will have shape (1, 1)
    - W^[3] will have shape (1, 3)
     
-    Note: I only listed the correct ones.
+   Note: I only listed the correct ones.
     
 Question 10. Whereas the previous question used a specific network, in the general case what is the dimension of W^[l], the weight matrix associated with layer l?
 
