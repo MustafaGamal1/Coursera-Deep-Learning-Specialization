@@ -11,10 +11,10 @@ Question1. What does the analogy “AI is the new electricity” refer to?
 
 Question2. Which of these are reasons for Deep Learning recently taking off? (Check the two options that apply.)
 
-    - [x] We have access to a lot more computational power.
-    - [ ] Neural Networks are a brand new field.
-    - [x] We have access to a lot more data.
-    - [x] Deep learning has resulted in significant improvements in important applications such as online advertising, speech recognition, and image recognition.
+   - [x] We have access to a lot more computational power.
+   - [ ] Neural Networks are a brand new field.
+   - [x] We have access to a lot more data.
+   - [x] Deep learning has resulted in significant improvements in important applications such as online advertising, speech recognition, and image recognition.
    
    Note: Correct, Yes! The digitalization of our society has played a huge role in this.
     
