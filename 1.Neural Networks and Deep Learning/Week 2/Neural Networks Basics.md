@@ -85,7 +85,7 @@ for i in range(3):
     c[i][j] = a[i][j] + b[j]
 How do you vectorize this?
 
-- [] c = a + b
+- [ ] c = a + b
 - [x] c = a + b.T
 - [ ] c = a.T + b
 - [ ] c = a.T + b.T
