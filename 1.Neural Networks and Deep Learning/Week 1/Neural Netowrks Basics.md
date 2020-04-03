@@ -75,3 +75,43 @@ What is the shape of c?
 Note: Correct, remember that a np.dot(a, b) has shape (number of rows of a, number of columns of b). The sizes match because :
 "number of columns of a = 150 = number of rows of b"
 
+Question8. Consider the following code snippet:
+# a.shape = (3,4)
+# b.shape = (4,1)
+
+for i in range(3):
+  for j in range(4):
+    c[i][j] = a[i][j] + b[j]
+How do you vectorize this?
+
+-[x] c = a + b
+-[] c = a + b.T
+-[] c = a.T + b
+-[] c = a.T + b.T
+
+Note : Incorrect!, the correct answer is: c = a + b.T
+
+Question9. Consider the following code:
+a = np.random.randn(3, 3)
+b = np.random.randn(3, 1)
+c = a*b
+What will be c? (If you’re not sure, feel free to run this in python to find out).
+
+- [x] This will invoke broadcasting, so b is copied three times to become (3,3), and *∗ is an element-wise product so c.shape will be (3, 3)
+- [ ] This will invoke broadcasting, so b is copied three times to become (3, 3), and *∗ invokes a matrix multiplication operation of two 3x3 matrices so c.shape will be (3, 3)
+- [ ] This will multiply a 3x3 matrix a with a 3x1 vector, thus resulting in a 3x1 vector. That is, c.shape = (3,1).
+- [ ] It will lead to an error since you cannot use “*” to operate on these two matrices. You need to instead use np.dot(a,b)
+
+Question10. Consider the following computation graph:
+J = u + v - w
+  = (a * b) + (a * c) - (b + c)
+  What is the output J?
+  
+  
+- [ ] J = (c - 1)*(b + a)
+- [x] J = (a - 1) * (b + c)
+- [ ] J = a*b + b*c + a*c
+- [ ] J = (b - 1) * (c + a)
+
+Note:Correct!, Yes. J = u + v - w = a*b + a*c - (b + c) = a * (b + c) - (b + c) = (a - 1) * (b + c).
+  
