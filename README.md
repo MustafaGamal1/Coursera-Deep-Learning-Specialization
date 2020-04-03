@@ -11,7 +11,8 @@ In five courses, you will learn the foundations of Deep Learning, understand how
 
 ## Respiratory Content
 
-This repo will contains all my current work for the specialization (The courses I finished + The ones I'm currently learning); All the codes, quizes, and images taken from [Coursera-Deep-Learning-Specialization](https://www.coursera.org/specializations/deep-learning).
+This repo will contains all my current work for the specialization (The courses I finished + The ones I'm currently working on).All the codes, quizes, and images taken from [Coursera-Deep-Learning-Specialization](https://www.coursera.org/specializations/deep-learning).
+Note: Any missing quiz or assignment will be uploaded soon as I've prepared it!.
 
 
 ## Programming assignments
