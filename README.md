@@ -16,10 +16,14 @@ This repo will contains all my current work for the specialization (The courses 
 
 ## Programming assignments
 
-### Course 1. Neural Networks and Deep Learning:
+#### Course 1. Neural Networks and Deep Learning:
  - [Week 2 - assignment #1 - Python_Basics_With_Numpy_v3a](https://github.com/MustafaGamal1/Coursera-Deep-Learning-Specialization/blob/master/1.Neural%20Networks%20and%20Deep%20Learning/Week%202/Python_Basics_With_Numpy_v3a_finished.ipynb)
+ 
  - [Week 2 - assignment #2 - Logistic_Regression_with_a_Neural_Network_mindset_v6a](https://github.com/MustafaGamal1/Coursera-Deep-Learning-Specialization/blob/master/1.Neural%20Networks%20and%20Deep%20Learning/Week%202/Logistic_Regression_with_a_Neural_Network_mindset_v6a_finished.ipynb)
+ 
  - [Week 3 - assignment #3 - Planar_data_classification_with_onehidden_layer_v6c](https://github.com/MustafaGamal1/Coursera-Deep-Learning-Specialization/blob/master/1.Neural%20Networks%20and%20Deep%20Learning/Week%203/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
+ 
  - [Week 4 - assignment #4 - Building_your_Deep_Neural_Network_Step_by_Step_v8a](https://github.com/MustafaGamal1/Coursera-Deep-Learning-Specialization/blob/master/1.Neural%20Networks%20and%20Deep%20Learning/Week%204/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
+ 
  - [ Week 4 - assignment #5 - Deep+Neural+Network+-+Application+v8](https://github.com/MustafaGamal1/Coursera-Deep-Learning-Specialization/blob/master/1.Neural%20Networks%20and%20Deep%20Learning/Week%204/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb)
  
