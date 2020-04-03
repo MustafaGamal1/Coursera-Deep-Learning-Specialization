@@ -50,7 +50,7 @@ Question 2. Among the following, which ones are "hyperparameters"? (Check all th
 
 6. Consider the following neural network.
 
-![](images/nn.png)
+![ ](images/nn.png)
 
 
 7. During forward propagation, in the forward function for a layer l you need to know what is the activation function in a layer (Sigmoid, tanh, ReLU, etc.). During backpropagation, the corresponding backward function also needs to know what is the activation function for layer l, since the gradient depends on it. True/False?
