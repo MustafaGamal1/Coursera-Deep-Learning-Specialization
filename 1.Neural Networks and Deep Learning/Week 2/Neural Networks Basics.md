@@ -68,10 +68,10 @@ b = np.random.randn(150, 45) # b.shape = (150, 45)
 c = np.dot(a,b)
 What is the shape of c?
 
--[x] c.shape = (12288, 45)
--[ ] c.shape = (12288, 150)
--[ ] c.shape = (150,150)
--[ ] The computation cannot happen because the sizes don't match. It's going to be "Error"!
+- [x] c.shape = (12288, 45)
+- [ ] c.shape = (12288, 150)
+- [ ] c.shape = (150,150)
+- [ ] The computation cannot happen because the sizes don't match. It's going to be "Error"!
 
 Note: Correct, remember that a np.dot(a, b) has shape (number of rows of a, number of columns of b). The sizes match because :
 "number of columns of a = 150 = number of rows of b"
@@ -85,12 +85,10 @@ for i in range(3):
     c[i][j] = a[i][j] + b[j]
 How do you vectorize this?
 
--[x] c = a + b
--[] c = a + b.T
--[] c = a.T + b
--[] c = a.T + b.T
-
-Note : Incorrect!, the correct answer is: c = a + b.T
+- [] c = a + b
+- [x] c = a + b.T
+- [ ] c = a.T + b
+- [ ] c = a.T + b.T
 
 Question9. Consider the following code:
 a = np.random.randn(3, 3)
