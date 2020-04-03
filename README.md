@@ -27,3 +27,15 @@ This repo will contains all my current work for the specialization (The courses 
  
  - [ Week 4 - assignment #5 - Deep+Neural+Network+-+Application+v8](https://github.com/MustafaGamal1/Coursera-Deep-Learning-Specialization/blob/master/1.Neural%20Networks%20and%20Deep%20Learning/Week%204/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb)
  
+
+## Quizzes Solutions
+
+### 1. Neural Networks and Deep Learning:
+- [Week 1 Quiz - Introduction to Deep Learning](https://github.com/MustafaGamal1/Coursera-Deep-Learning-Specialization/blob/master/1.Neural%20Networks%20and%20Deep%20Learning/Week%201/Introduction%20to%20Deep%20learning.md)
+
+-[Week 2 Quiz - Neural Networks Basics](https://github.com/MustafaGamal1/Coursera-Deep-Learning-Specialization/blob/master/1.Neural%20Networks%20and%20Deep%20Learning/Week%202/Neural%20Networks%20Basics.md)
+
+- [Week 3 Quiz - Shallow Neural Networks](https://github.com/MustafaGamal1/Coursera-Deep-Learning-Specialization/blob/master/1.Neural%20Networks%20and%20Deep%20Learning/Week%203/Shallow%20Neural%20Networks.md)
+
+- [Week 4 Quiz - Key Concepts on Deep Neural Networks](https://github.com/MustafaGamal1/Coursera-Deep-Learning-Specialization/blob/master/1.Neural%20Networks%20and%20Deep%20Learning/Week%204/Key%20Concepts%20on%20Deep%20Neural%20Networks.md)
+
