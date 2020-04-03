@@ -50,10 +50,8 @@ Question 2. Among the following, which ones are "hyperparameters"? (Check all th
 
 6. Consider the following neural network.
 
-    - The number of layers L is 4. The number of hidden layers is 3.
-    
-    Note: The input layer (L^[0]) does not count.
-   
+![](1.Neural Networks and Deep Learning/images/nn.png)
+
 
 7. During forward propagation, in the forward function for a layer l you need to know what is the activation function in a layer (Sigmoid, tanh, ReLU, etc.). During backpropagation, the corresponding backward function also needs to know what is the activation function for layer l, since the gradient depends on it. True/False?
 
